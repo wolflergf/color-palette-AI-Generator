@@ -50,7 +50,7 @@ def prompt_to_palette():
     return {"colors": colors}
 
 
-# Route to handle POST requests for generating color palettes
+# Route to handle POST requests for generating color palettes.
 @app.route("/")
 def index():
     return render_template("index.html")
