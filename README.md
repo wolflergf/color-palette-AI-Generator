@@ -31,4 +31,4 @@ OPENAI_API_KEY=<your_openai_api_key>
 If you need any assistance or have questions about the Color Palette AI Generator, please open an issue in the repository. I will be happy to help you.
 
 ## Who maintains and contributes to the project
-I, Wolfler (https://github.com/wolflergf), maintain and contribute to the Color Palette AI Generator. If you're interested in contributing to the project, you can fix the repository, make changes, and submit pull requests with your proposed improvements or bug fixes. I will be sure to merge pull requests as appropriate.
+I, Wolfler (https://github.com/wolflergf), maintain and contribute to the Color Palette AI Generator. If you're interested in contributing to the project, you can fork the repository, make changes, and submit pull requests with your proposed improvements or bug fixes. I will be sure to merge pull requests as appropriate.
