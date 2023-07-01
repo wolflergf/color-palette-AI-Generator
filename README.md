@@ -15,8 +15,10 @@ To get started with the Color Palette AI Generator, follow these steps:
 
 1. Clone the repository to your local machine: `git clone https://github.com/wolflergf/color-palette-AI-Generator.git`
 2. Navigate to the project directory: `cd color-palette-AI-Generator`
-3. Install the required dependencies. It is recommended to use a virtual environment:
-   - Create a virtual environment: `python -m venv venv`
+3. Install the required dependencies. It is recommended to use a virtual environment:   
+   - Create a virtual environment:
+      - On Windows: `python -m venv venv`
+      - On macOS and Linux: `python3 -m venv venv`
    - Activate the virtual environment:
      - On Windows: `venv\Scripts\activate.bat`
      - On macOS and Linux: `source venv/bin/activate`
